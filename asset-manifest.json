@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/RainbowStickyNotes/static/css/main.86551738.css",
-    "main.js": "/RainbowStickyNotes/static/js/main.420f678c.js",
+    "main.css": "/RainbowStickyNotes/static/css/main.7c50afb5.css",
+    "main.js": "/RainbowStickyNotes/static/js/main.c5d78e25.js",
     "static/js/787.8bad02b9.chunk.js": "/RainbowStickyNotes/static/js/787.8bad02b9.chunk.js",
     "index.html": "/RainbowStickyNotes/index.html",
-    "main.86551738.css.map": "/RainbowStickyNotes/static/css/main.86551738.css.map",
-    "main.420f678c.js.map": "/RainbowStickyNotes/static/js/main.420f678c.js.map",
+    "main.7c50afb5.css.map": "/RainbowStickyNotes/static/css/main.7c50afb5.css.map",
+    "main.c5d78e25.js.map": "/RainbowStickyNotes/static/js/main.c5d78e25.js.map",
     "787.8bad02b9.chunk.js.map": "/RainbowStickyNotes/static/js/787.8bad02b9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86551738.css",
-    "static/js/main.420f678c.js"
+    "static/css/main.7c50afb5.css",
+    "static/js/main.c5d78e25.js"
   ]
 }
